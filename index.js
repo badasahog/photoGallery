@@ -66,7 +66,6 @@ const ExampleDynamicColumns = () => {
     </div>
   );
 };
-one;
 export default ExampleDynamicColumns;
 render(<ExampleDynamicColumns />, document.getElementById("app"));
 
